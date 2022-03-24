@@ -1,0 +1,8 @@
+x64/
+.vs/
+ocv_1.sln
+images
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*/x64/
