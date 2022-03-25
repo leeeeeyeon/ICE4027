@@ -6,3 +6,4 @@ images
 *.vcxproj.filters
 *.vcxproj.user
 */x64/
+Debug/
