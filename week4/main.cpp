@@ -156,7 +156,7 @@ int main() {
 	// waitKey(0);
 	// destroyWindow("Test window");
 
-	vector<Mat> VecLap = myLaplacianPyramid(src_img);
+	vector<Mat> VecLap = myGaussianPyramid(src_img);
 
 	imshow("1", VecLap[0]);
 	imshow("2", VecLap[1]);
