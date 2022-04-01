@@ -11,7 +11,7 @@
 using namespace cv;
 using namespace std;
 
-int main() {
+int main5() {
 	Mat src_img = imread("images/gear.jpg", 1);
 	Mat dst_img;
 

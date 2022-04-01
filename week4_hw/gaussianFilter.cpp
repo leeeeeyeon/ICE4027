@@ -11,7 +11,7 @@
 using namespace cv;
 using namespace std;
 
-int main1() {
+int main() {
 	Mat src_img = imread("images/gear.jpg", 0);
 
 	Mat img = myGaussianFilter(src_img);
