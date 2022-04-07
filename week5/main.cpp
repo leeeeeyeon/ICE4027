@@ -185,8 +185,6 @@ Mat doHPF(Mat srcImg) {
 	return myNormalize(dstImg);
 }
 
-
-
 int main() {
 	Mat src_img = imread("images/gear.jpg", 0);
 
